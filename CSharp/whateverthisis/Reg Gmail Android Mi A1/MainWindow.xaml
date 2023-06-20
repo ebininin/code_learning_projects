@@ -1,0 +1,121 @@
+﻿<Window x:Class="Reg_Gmail_Android_Mi_A1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Reg_Gmail_Android_Mi_A1"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="Mi A1 Reg Gmail v1.0" Height="450" Width="800" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="20*"/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="1" BorderBrush="Black" BorderThickness="1"></Border>
+        <Label Content="Menu" HorizontalAlignment="Center" FontSize="20" FontWeight="ExtraBold" Background="{x:Null}">
+            <Label.Foreground>
+                <RadialGradientBrush>
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FFE47300" Offset="0"/>
+                </RadialGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Label Content="Number Phone :" FontSize="14" FontWeight="Bold" Margin="1,40">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="Red" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <TextBox x:Name="NumberPhone_TextBox" Text="1"  Width="30" Height="20" Margin="120,44,4,343" TextChanged="NumberPhone_Change"/>
+        <Label Content="Loop :" FontSize="14" FontWeight="Bold" Margin="1,80">
+            <Label.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFF90000" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <TextBox x:Name="Loop_TextBox" Text="1"  Width="30" Height="20" Margin="120,84,4,303" TextChanged="Loop_Change"/>
+        <Button x:Name="RunButton" Content="Run" VerticalAlignment="Top" Margin="20,170" HorizontalAlignment="Left" Click="Run_Click"  Height="30" Width="50" Background="Transparent"/>
+        <Button Content="Export" Click="Export_Click" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,120" Height="30" Width="50" Background="Transparent"/>
+        <Button Content="Import" Click="Import_Click" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="20,120" Height="30" Width="50" Background="Transparent"/>
+        <Button Content="ClearLog" Click="ClearLog_Click" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="20,170" Height="30" Width="50" Background="Transparent"/>
+        <Label Content="API 2ndline:" FontSize="14" FontWeight="Bold" Grid.Column="1"/>
+        <TextBox x:Name="Api_TextBox" Width="300" Height="20" Margin="150,5" VerticalAlignment="Top" HorizontalAlignment="Left" Grid.Column="1" TextChanged="Path_Change"/>
+        <ListView Grid.Column="1" Margin="5,30,5,5" x:Name="lstView" Background="White">
+            <ListView.Resources>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="BorderBrush" Value="LightGray" />
+                    <Setter Property="BorderThickness" Value="0,0,0,1" />
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                    <Setter Property="VerticalContentAlignment" Value="Stretch" />
+                </Style>
+            </ListView.Resources>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="30">
+                        <GridViewColumnHeader>
+                            <CheckBox Checked="HeaderCheckBox_Checked" Unchecked="HeaderCheckBox_Unchecked"/>
+                        </GridViewColumnHeader>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Border BorderBrush="#FF000000" BorderThickness="0,0,1,0" Margin="-3,-2,-7,-2">
+                                    <CheckBox HorizontalAlignment="Center" VerticalAlignment="Center" IsChecked="{Binding CheckStatus}" Click="CheckBox_Click"></CheckBox>
+                                </Border>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="STT" Width="30" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Border BorderBrush="#FF000000" BorderThickness="0,0,1,0" Margin="-3,-2,-7,-2">
+                                    <TextBlock x:Name="TextBlockTemplate" Text="{Binding STT}" VerticalAlignment="Center" MouseRightButtonDown="TextBlockTemplate_MouseRightButtonDown"></TextBlock>
+                                </Border>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="ID" Width="150" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Border BorderBrush="#FF000000" BorderThickness="0,0,1,0" Margin="-3,-2,-7,-2">
+                                    <TextBlock x:Name="TextBlockTemplate" Text="{Binding ID}" VerticalAlignment="Center" MouseRightButtonDown="TextBlockTemplate_MouseRightButtonDown"></TextBlock>
+                                </Border>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Pass" Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Border BorderBrush="#FF000000" BorderThickness="0,0,1,0" Margin="-3,-2,-7,-2">
+                                    <TextBlock x:Name="TextBlockTemplate" Text="{Binding Pass}" VerticalAlignment="Center" MouseRightButtonDown="TextBlockTemplate_MouseRightButtonDown"></TextBlock>
+                                </Border>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Recovery" Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Border BorderBrush="#FF000000" BorderThickness="0,0,1,0" Margin="-3,-2,-7,-2">
+                                    <TextBlock x:Name="TextBlockTemplate" Text="{Binding Recovery}" VerticalAlignment="Center" MouseRightButtonDown="TextBlockTemplate_MouseRightButtonDown"></TextBlock>
+                                </Border>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Log" Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Border BorderBrush="#FF000000" BorderThickness="0,0,1,0" Margin="-3,-2,-7,-2">
+                                    <TextBlock x:Name="TextBlockTemplate" Text="{Binding Log}" VerticalAlignment="Center" MouseRightButtonDown="TextBlockTemplate_MouseRightButtonDown"></TextBlock>
+                                </Border>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+
+</Window>

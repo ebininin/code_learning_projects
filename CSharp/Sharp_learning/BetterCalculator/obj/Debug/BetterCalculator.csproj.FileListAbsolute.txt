@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BetterCalculator/bin/Debug/BetterCalculator.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BetterCalculator/bin/Debug/BetterCalculator.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BetterCalculator/obj/Debug/BetterCalculator.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BetterCalculator/obj/Debug/BetterCalculator.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BetterCalculator/obj/Debug/BetterCalculator.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BetterCalculator/obj/Debug/BetterCalculator.pdb

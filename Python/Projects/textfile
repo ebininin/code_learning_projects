@@ -1,0 +1,20 @@
+vilas@pop-os:~/Local_Repo/git-learning$ git merge main
+Already up to date.
+vilas@pop-os:~/Local_Repo/git-learning$ git checkout main
+M	Quick_code.py
+Switched to branch 'main'
+Your branch is ahead of 'origin/main' by 3 commits.
+  (use "git push" to publish your local commits)
+vilas@pop-os:~/Local_Repo/git-learning$ git merge new
+Already up to date.
+vilas@pop-os:~/Local_Repo/git-learning$ git mergetool
+No files need merging
+vilas@pop-os:~/Local_Repo/git-learning$ git diffmerge
+git: 'diffmerge' is not a git command. See 'git --help'.
+vilas@pop-os:~/Local_Repo/git-learning$ git difftool
+
+Viewing (1/1): 'Quick_code.py'
+Launch 'meld' [Y/n]? y
+vilas@pop-os:~/Local_Repo/git-learning$ git mergetool
+No files need merging
+vilas@pop-os:~/Local_Repo/git-learning$ git pull

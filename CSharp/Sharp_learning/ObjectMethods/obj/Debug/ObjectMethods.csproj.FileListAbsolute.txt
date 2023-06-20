@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ObjectMethods/bin/Debug/ObjectMethods.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ObjectMethods/bin/Debug/ObjectMethods.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ObjectMethods/obj/Debug/ObjectMethods.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ObjectMethods/obj/Debug/ObjectMethods.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ObjectMethods/obj/Debug/ObjectMethods.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ObjectMethods/obj/Debug/ObjectMethods.pdb

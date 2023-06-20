@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/OddAndEven/bin/Debug/OddAndEven.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/OddAndEven/bin/Debug/OddAndEven.pdb
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/OddAndEven/obj/Debug/OddAndEven.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/OddAndEven/obj/Debug/OddAndEven.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/OddAndEven/obj/Debug/OddAndEven.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/OddAndEven/obj/Debug/OddAndEven.pdb

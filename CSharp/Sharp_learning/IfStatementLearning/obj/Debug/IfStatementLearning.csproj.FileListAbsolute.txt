@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/IfStatementLearning/bin/Debug/IfStatementLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/IfStatementLearning/bin/Debug/IfStatementLearning.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/IfStatementLearning/obj/Debug/IfStatementLearning.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/IfStatementLearning/obj/Debug/IfStatementLearning.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/IfStatementLearning/obj/Debug/IfStatementLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/IfStatementLearning/obj/Debug/IfStatementLearning.pdb

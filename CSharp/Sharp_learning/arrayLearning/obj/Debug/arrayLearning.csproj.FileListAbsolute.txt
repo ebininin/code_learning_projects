@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/arrayLearning/bin/Debug/arrayLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/arrayLearning/bin/Debug/arrayLearning.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/arrayLearning/obj/Debug/arrayLearning.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/arrayLearning/obj/Debug/arrayLearning.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/arrayLearning/obj/Debug/arrayLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/arrayLearning/obj/Debug/arrayLearning.pdb

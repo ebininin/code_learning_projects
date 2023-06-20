@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BuildingCalculatorLearning/bin/Debug/BuildingCalculatorLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BuildingCalculatorLearning/bin/Debug/BuildingCalculatorLearning.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BuildingCalculatorLearning/obj/Debug/BuildingCalculatorLearning.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BuildingCalculatorLearning/obj/Debug/BuildingCalculatorLearning.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BuildingCalculatorLearning/obj/Debug/BuildingCalculatorLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/BuildingCalculatorLearning/obj/Debug/BuildingCalculatorLearning.pdb

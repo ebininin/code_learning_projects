@@ -1,0 +1,64 @@
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.csproj.AssemblyReference.cache
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.csproj.SuggestedBindingRedirects.cache
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/MainWindow.g.cs
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/App.g.cs
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1_MarkupCompile.cache
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1_MarkupCompile.lref
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Reg Gmail Android Mi A1.exe.config
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Reg Gmail Android Mi A1.exe
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Reg Gmail Android Mi A1.pdb
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Appium.Net.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Castle.Core.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Newtonsoft.Json.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/SeleniumExtras.PageObjects.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/System.Drawing.Common.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/WebDriver.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/WebDriver.Support.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Appium.Net.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Castle.Core.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Newtonsoft.Json.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/WebDriver.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/WebDriver.Support.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/MainWindow.baml
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.g.resources
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/Reg_Gmail_Android_Mi_A1.Properties.Resources.resources
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.csproj.GenerateResource.cache
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.csproj.CoreCompileInputs.cache
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.csproj.CopyComplete
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.exe
+D:/Visual Repos/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.pdb
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/CsvHelper.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Microsoft.Bcl.HashCode.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/RingoLib.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/System.Buffers.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/System.Memory.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/System.Numerics.Vectors.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/System.Threading.Tasks.Extensions.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/xNet.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/WindowsInput.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/SharpCompress.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/HtmlAgilityPack.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/KAutoHelper.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Emgu.CV.World.dll
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/CsvHelper.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/Microsoft.Bcl.HashCode.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/RingoLib.pdb
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/RingoLib.dll.config
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/System.Buffers.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/System.Memory.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/System.Numerics.Vectors.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/System.Threading.Tasks.Extensions.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/WindowsInput.xml
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/HtmlAgilityPack.pdb
+D:/Visual Repos/Reg Gmail Android Mi A1/bin/Debug/HtmlAgilityPack.xml
+/home/vilas/Documents/CodingProjects/CSharp/whateverthisis/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/whateverthisis/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.exe.config
+/home/vilas/Documents/CodingProjects/CSharp/whateverthisis/Reg Gmail Android Mi A1/obj/Debug/Reg_Gmail_Android_Mi_A1.Properties.Resources.resources
+/home/vilas/Documents/CodingProjects/CSharp/whateverthisis/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.csproj.GenerateResource.cache
+/home/vilas/Documents/CodingProjects/CSharp/whateverthisis/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/whateverthisis/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.exe
+/home/vilas/Documents/CodingProjects/CSharp/whateverthisis/Reg Gmail Android Mi A1/obj/Debug/Reg Gmail Android Mi A1.pdb

@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MethodsLearning/bin/Debug/MethodsLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MethodsLearning/bin/Debug/MethodsLearning.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MethodsLearning/obj/Debug/MethodsLearning.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MethodsLearning/obj/Debug/MethodsLearning.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MethodsLearning/obj/Debug/MethodsLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MethodsLearning/obj/Debug/MethodsLearning.pdb

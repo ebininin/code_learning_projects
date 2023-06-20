@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/StringLearning/bin/Debug/StringLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/StringLearning/bin/Debug/StringLearning.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/StringLearning/obj/Debug/StringLearning.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/StringLearning/obj/Debug/StringLearning.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/StringLearning/obj/Debug/StringLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/StringLearning/obj/Debug/StringLearning.pdb

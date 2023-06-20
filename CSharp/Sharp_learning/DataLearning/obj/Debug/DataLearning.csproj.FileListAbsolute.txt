@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/DataLearning/obj/Debug/DataLearning.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/DataLearning/obj/Debug/DataLearning.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/DataLearning/bin/Debug/DataLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/DataLearning/bin/Debug/DataLearning.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/DataLearning/obj/Debug/DataLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/DataLearning/obj/Debug/DataLearning.pdb

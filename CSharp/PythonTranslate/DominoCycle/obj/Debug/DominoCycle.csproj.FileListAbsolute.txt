@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/DominoCycle/bin/Debug/DominoCycle.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/DominoCycle/bin/Debug/DominoCycle.pdb
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/DominoCycle/obj/Debug/DominoCycle.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/DominoCycle/obj/Debug/DominoCycle.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/DominoCycle/obj/Debug/DominoCycle.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/DominoCycle/obj/Debug/DominoCycle.pdb

@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RyersonLetter/obj/Debug/RyersonLetter.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RyersonLetter/obj/Debug/RyersonLetter.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RyersonLetter/bin/Debug/RyersonLetter.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RyersonLetter/bin/Debug/RyersonLetter.pdb
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RyersonLetter/obj/Debug/RyersonLetter.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RyersonLetter/obj/Debug/RyersonLetter.pdb

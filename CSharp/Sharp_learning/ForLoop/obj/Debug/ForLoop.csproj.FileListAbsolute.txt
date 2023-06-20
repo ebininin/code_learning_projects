@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ForLoop/bin/Debug/ForLoop.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ForLoop/bin/Debug/ForLoop.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ForLoop/obj/Debug/ForLoop.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ForLoop/obj/Debug/ForLoop.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ForLoop/obj/Debug/ForLoop.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ForLoop/obj/Debug/ForLoop.pdb

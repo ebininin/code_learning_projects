@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/WhileLoop/bin/Debug/WhileLoop.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/WhileLoop/bin/Debug/WhileLoop.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/WhileLoop/obj/Debug/WhileLoop.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/WhileLoop/obj/Debug/WhileLoop.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/WhileLoop/obj/Debug/WhileLoop.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/WhileLoop/obj/Debug/WhileLoop.pdb

@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ClassObject/bin/Debug/ClassObject.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ClassObject/bin/Debug/ClassObject.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ClassObject/obj/Debug/ClassObject.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ClassObject/obj/Debug/ClassObject.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ClassObject/obj/Debug/ClassObject.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ClassObject/obj/Debug/ClassObject.pdb

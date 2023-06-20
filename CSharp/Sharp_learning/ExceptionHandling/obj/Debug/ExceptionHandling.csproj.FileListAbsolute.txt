@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExceptionHandling/bin/Debug/ExceptionHandling.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExceptionHandling/bin/Debug/ExceptionHandling.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExceptionHandling/obj/Debug/ExceptionHandling.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExceptionHandling/obj/Debug/ExceptionHandling.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExceptionHandling/obj/Debug/ExceptionHandling.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExceptionHandling/obj/Debug/ExceptionHandling.pdb

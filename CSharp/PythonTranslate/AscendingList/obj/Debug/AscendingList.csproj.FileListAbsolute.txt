@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/AscendingList/bin/Debug/AscendingList.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/AscendingList/bin/Debug/AscendingList.pdb
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/AscendingList/obj/Debug/AscendingList.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/AscendingList/obj/Debug/AscendingList.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/AscendingList/obj/Debug/AscendingList.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/AscendingList/obj/Debug/AscendingList.pdb

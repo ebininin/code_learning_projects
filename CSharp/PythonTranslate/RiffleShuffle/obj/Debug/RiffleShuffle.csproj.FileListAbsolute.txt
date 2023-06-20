@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RiffleShuffle/bin/Debug/RiffleShuffle.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RiffleShuffle/bin/Debug/RiffleShuffle.pdb
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RiffleShuffle/obj/Debug/RiffleShuffle.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RiffleShuffle/obj/Debug/RiffleShuffle.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RiffleShuffle/obj/Debug/RiffleShuffle.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/RiffleShuffle/obj/Debug/RiffleShuffle.pdb

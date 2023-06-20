@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/GuessingGame/bin/Debug/GuessingGame.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/GuessingGame/bin/Debug/GuessingGame.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/GuessingGame/obj/Debug/GuessingGame.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/GuessingGame/obj/Debug/GuessingGame.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/GuessingGame/obj/Debug/GuessingGame.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/GuessingGame/obj/Debug/GuessingGame.pdb

@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExponentMethod/bin/Debug/ExponentMethod.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExponentMethod/bin/Debug/ExponentMethod.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExponentMethod/obj/Debug/ExponentMethod.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExponentMethod/obj/Debug/ExponentMethod.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExponentMethod/obj/Debug/ExponentMethod.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/ExponentMethod/obj/Debug/ExponentMethod.pdb

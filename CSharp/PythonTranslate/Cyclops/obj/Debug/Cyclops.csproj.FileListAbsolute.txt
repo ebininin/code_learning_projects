@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/Cyclops/bin/Debug/Cyclops.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/Cyclops/bin/Debug/Cyclops.pdb
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/Cyclops/obj/Debug/Cyclops.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/Cyclops/obj/Debug/Cyclops.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/Cyclops/obj/Debug/Cyclops.exe
+/home/vilas/Documents/CodingProjects/CSharp/PythonTranslate/Cyclops/obj/Debug/Cyclops.pdb

@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MadLibLearning/bin/Debug/MadLibLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MadLibLearning/bin/Debug/MadLibLearning.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MadLibLearning/obj/Debug/MadLibLearning.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MadLibLearning/obj/Debug/MadLibLearning.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MadLibLearning/obj/Debug/MadLibLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/MadLibLearning/obj/Debug/MadLibLearning.pdb

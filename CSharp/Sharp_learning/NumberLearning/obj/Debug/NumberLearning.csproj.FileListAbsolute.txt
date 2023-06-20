@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/NumberLearning/bin/Debug/NumberLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/NumberLearning/bin/Debug/NumberLearning.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/NumberLearning/obj/Debug/NumberLearning.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/NumberLearning/obj/Debug/NumberLearning.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/NumberLearning/obj/Debug/NumberLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/NumberLearning/obj/Debug/NumberLearning.pdb

@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/UserInputLearning/bin/Debug/UserInputLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/UserInputLearning/bin/Debug/UserInputLearning.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/UserInputLearning/obj/Debug/UserInputLearning.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/UserInputLearning/obj/Debug/UserInputLearning.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/UserInputLearning/obj/Debug/UserInputLearning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/UserInputLearning/obj/Debug/UserInputLearning.pdb

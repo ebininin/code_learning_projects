@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/console-learning/bin/Debug/console_learning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/console-learning/bin/Debug/console_learning.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/console-learning/obj/Debug/console-learning.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/console-learning/obj/Debug/console-learning.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/console-learning/obj/Debug/console_learning.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/console-learning/obj/Debug/console_learning.pdb

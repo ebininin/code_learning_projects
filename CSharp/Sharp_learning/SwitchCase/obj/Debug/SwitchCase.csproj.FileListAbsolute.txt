@@ -1,0 +1,6 @@
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/SwitchCase/bin/Debug/SwitchCase.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/SwitchCase/bin/Debug/SwitchCase.pdb
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/SwitchCase/obj/Debug/SwitchCase.csproj.AssemblyReference.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/SwitchCase/obj/Debug/SwitchCase.csproj.CoreCompileInputs.cache
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/SwitchCase/obj/Debug/SwitchCase.exe
+/home/vilas/Documents/CodingProjects/CSharp/Sharp_learning/SwitchCase/obj/Debug/SwitchCase.pdb
