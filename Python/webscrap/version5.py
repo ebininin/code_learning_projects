@@ -16,8 +16,8 @@ token = login_page_soup.find("input", {"name": "token"}).get("value")
 # Prepare the login payload with the retrieved token
 payload = {
     "token": token,
-    "username": "khang140388@yahoo.com",
-    "password": "Kobiet123"
+    "username": "",
+    "password": ""
 }
 
 # Send the login request
