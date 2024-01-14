@@ -33,8 +33,8 @@ def create_session(url, user, pw, token):
 
 
 url_ = "https://billing.limewave.net/index.php?rp=/login"
-username = "khang140388@yahoo.com"
-password = "Kobiet123"
+username = ""
+password = ""
 
 source = requests.get(url_).text
 print(source)
