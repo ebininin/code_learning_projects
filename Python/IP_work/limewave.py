@@ -27,8 +27,8 @@ def create_session(username, password):
         return None
 
 # Usage
-username = "khang140388@yahoo.com"
-password = "Kobiet123"
+username = ""
+password = ""
 
 session = create_session(username, password)
 if session:
