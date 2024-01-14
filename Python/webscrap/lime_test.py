@@ -39,8 +39,8 @@ def create_session(url_, usr, pw):
 
 
 url = "https://billing.limewave.net/index.php?rp=/login"
-username = "khang140388@yahoo.com"
-password = "Kobiet123"
+username = ""
+password = ""
 
 session = create_session(url, username, password)
 if session:
