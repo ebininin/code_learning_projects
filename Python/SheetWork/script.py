@@ -6,8 +6,8 @@ import time
 creds = gspread.service_account(filename='service_account.json')
 sheet = creds.open('PADI-me')
 
-client_sheet = ['Khach le', 'Lab HN', 'Thái Hà', 'TOMO', 'Trường DEV']
-acc_sheet = ['khang140388@yahoo.com', 'hangdang010487@gmail.com', 'crazymouse.vn@gmail.com', 'crazymouse.vn2@gmail.com', 'crazymouse.vn3@gmail.com']
+client_sheet = []
+acc_sheet = []
 sheet_dict = {
     '1': [client_sheet, funt.find_auth],
     '2': [acc_sheet, funt.find_id]
