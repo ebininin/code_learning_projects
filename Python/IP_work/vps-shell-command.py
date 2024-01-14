@@ -1,6 +1,6 @@
 import re
 
-with open('/home/vilas/Documents/VPS proxy/pỵcommand/contabo-filter', 'r') as file:
+with open(input('File location:\n'), 'r') as file:
     fi = file.readlines()
 
 re_ip = re.compile(r'\d{9}')
