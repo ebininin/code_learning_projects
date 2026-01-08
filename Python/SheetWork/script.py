@@ -1,6 +1,6 @@
 import concurrent.futures
 import gspread
-import funtions as funt
+import functions as funt
 import time
 
 creds = gspread.service_account(filename='service_account.json')
